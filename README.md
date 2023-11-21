@@ -1,4 +1,4 @@
-![logo](https://github.com/1RN21CS062/1RN21CS062/blob/main/Github_banner.jpeg)
+https://github.com/1RN21CS062/1RN21CS062/blob/main/Github_banner.jpeg
 <h1 align="center">Hi 👋, I'm Harsh RG</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
